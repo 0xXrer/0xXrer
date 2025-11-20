@@ -11,7 +11,7 @@ engineer @ almaty, kz
 reverse · obfuscation · kernels · bots · ui libs
 ```
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/elowen.im)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1287660832133611520)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ImXrer)
 
 </div>
