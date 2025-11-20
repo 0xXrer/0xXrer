@@ -11,8 +11,8 @@ engineer @ almaty, kz
 reverse · obfuscation · kernels · bots · ui libs
 ```
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/elowen.im)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ImXrer)
 
 </div>
 
@@ -47,11 +47,11 @@ let tech = vec![
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=0xXrer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=9b59b6)
+![](https://github-readme-stats.vercel.app/api?username=0xXrer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9b59b6&text_color=ffffff&icon_color=9b59b6)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xXrer&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=9b59b6&fire=00ff00&currStreakLabel=ffffff)
+![](https://github-readme-streak-stats.herokuapp.com/?user=0xXrer&theme=dark&hide_border=true&background=0d1117&stroke=9b59b6&ring=9b59b6&fire=9b59b6&currStreakLabel=ffffff)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xXrer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xXrer&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=9b59b6&text_color=ffffff)
 
 </div>
 
@@ -78,6 +78,6 @@ const projects = {
 
 **`perfectionist · minimalist · engineer`**
 
-![](https://komarev.com/ghpvc/?username=0xXrer&color=00ff00&style=flat)
+![](https://komarev.com/ghpvc/?username=0xXrer&color=9b59b6&style=flat)
 
 </div>
