@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](./assets/banner.png)
+![Banner](./banner.png)
 
 ### `0xXrer`
 
