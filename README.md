@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](./banner.png)
+![Banner](./Group%208-3.png)
 
 ### `0xXrer`
 
