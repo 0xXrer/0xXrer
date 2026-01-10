@@ -72,7 +72,7 @@ let tech = vec![
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xXrer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9b59b6&text_color=ffffff&icon_color=9b59b6&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xXrer&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=9b59b6&text_color=ffffff&icon_color=9b59b6" alt="GitHub Stats" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xXrer&theme=dark&hide_border=true&background=0d1117&stroke=9b59b6&ring=9b59b6&fire=9b59b6&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 
 </div>
@@ -107,8 +107,14 @@ let tech = vec![
 <div align="center">
 
 <!-- The 3D contribution graph is generated automatically by GitHub Actions -->
-<!-- It will appear after the first workflow run -->
-![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- It will appear after the first workflow run. Until then, this section will show a placeholder. -->
+<!-- To generate it now: Go to Actions → GitHub Profile 3D Contribution → Run workflow -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" onerror="this.style.display='none'">
+</picture>
 
 </div>
 
