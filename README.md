@@ -106,6 +106,8 @@ let tech = vec![
 
 <div align="center">
 
+<!-- The 3D contribution graph is generated automatically by GitHub Actions -->
+<!-- It will appear after the first workflow run -->
 ![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
