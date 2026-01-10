@@ -1,11 +1,11 @@
 # https://github.com/lowlighter/metrics
 name: Metrics
 on:
-  # Schedule hourly updates
-  schedule: [{cron: "0 * * * *"}]
-  # (optional) Run workflow manually
+  # Schedule daily updates at midnight
+  schedule: [{cron: "0 0 * * *"}]
+  # Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
+  # Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -27,11 +27,6 @@ jobs:
 
           plugin_traffic: yes
           plugin_gists: yes
-          plugin_lines: yes
-          plugin_lines_history_limit: 3
-          plugin_lines_delay: 30
-          plugin_lines_repositories_limit: 10
-          plugin_lines_sections: base, repositories
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
@@ -49,17 +44,12 @@ jobs:
           commits_authoring: 0xXrer, 0xXrer@users.noreply.github.com
           plugin_languages: yes
           plugin_languages_skipped: 0xXrer
-          plugin_languages_limit: 24
+          plugin_languages_limit: 12
           plugin_languages_threshold: 0%
           plugin_languages_colors: github
           plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage, lines
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_analysis_timeout_repositories: 7.5
-          plugin_languages_categories: markup, programming
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_load: 300
-          plugin_languages_recent_days: 14
+          plugin_languages_details: percentage
+          plugin_languages_categories: programming
       - name: Recently starred
         uses: lowlighter/metrics@latest
         with:

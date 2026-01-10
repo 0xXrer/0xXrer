@@ -22,7 +22,10 @@
 </div>
 <hr/>
 
-<a href="https://discord.com/users/1287660832133611520"><img src="https://lanyard.kyrie25.dev/api/1287660832133611520?animatedDecoration=true&showDisplayName=false&theme=dark&showBanner=animated&imgStyle=square&gradient=9b59b6-8e44ad-6c3483&hideDecoration=false&animated=true" alt="Discord" /></a>
+<!-- Discord card - join https://discord.gg/lanyard for real-time status -->
+<a href="https://discord.com/users/1287660832133611520">
+  <img src="https://lanyard.cnrad.dev/api/1287660832133611520?theme=dark&bg=0d1117&borderRadius=10px&animated=true&idleMessage=Chilling..." alt="Discord Presence" />
+</a>
 
 <!--
 **0xXrer/0xXrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
