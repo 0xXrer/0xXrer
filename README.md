@@ -20,7 +20,6 @@
    </tr>
  </table>
 </div>
-<hr/>
 
 <!--
 **0xXrer/0xXrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
